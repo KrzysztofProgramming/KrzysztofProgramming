@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
+![](https://komarev.com/ghpvc/?username=KrzysztofProgramming&color=orange)
 
 <!--
 **KrzysztofProgramming/KrzysztofProgramming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
