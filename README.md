@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ShopProjectSpring](https://github.com/KrzysztofProgramming/ShopProjectSpring)
 
-- 🌱 I’m currently learning **PostgreSQL**
+- 🌱 I keep learning: **PostgreSQL, Spring, Angular**
 
 - 👨‍💻 All of my projects are available at [https://KrzysztofProgramming.github.io](https://KrzysztofProgramming.github.io)
 
