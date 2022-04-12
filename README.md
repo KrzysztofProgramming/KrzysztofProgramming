@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krzysztof</h1>
 <h3 align="center">A passionate fullstack developer from Cracow</h3>
-<h4 align="center">Check out my project: [https://KrzysztofProgramming.github.io](https://KrzysztofProgramming.github.io)</h4>
+<h4 align="center">Check out my project: https://KrzysztofProgramming.github.io</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krzysztofprogramming&label=Profile%20views&color=0e75b6&style=flat" alt="krzysztofprogramming" /> </p>
 
