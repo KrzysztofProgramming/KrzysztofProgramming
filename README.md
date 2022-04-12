@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krzysztof</h1>
 <h3 align="center">A passionate fullstack developer from Cracow</h3>
+<h4 align="center">Check out my project: [https://KrzysztofProgramming.github.io](https://KrzysztofProgramming.github.io)</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krzysztofprogramming&label=Profile%20views&color=0e75b6&style=flat" alt="krzysztofprogramming" /> </p>
 
@@ -8,8 +9,6 @@
 - 🔭 I’m currently working on [ShopProjectSpring](https://github.com/KrzysztofProgramming/ShopProjectSpring)
 
 - 🌱 I keep learning: **PostgreSQL, Spring JPA, Angular**
-
-- 👨‍💻 All of my projects are available at [https://KrzysztofProgramming.github.io](https://KrzysztofProgramming.github.io)
 
 - 📫 How to reach me **kkonieczny.programming@gmail.com**
 
