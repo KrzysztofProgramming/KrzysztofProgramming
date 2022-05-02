@@ -2,8 +2,8 @@
 <h3 align="center">A passionate fullstack developer from Cracow</h3>
 <h4 align="center">Check out my project: https://KrzysztofProgramming.github.io</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krzysztofprogramming&label=Profile%20views&color=0e75b6&style=flat" alt="krzysztofprogramming" /> </p>
-
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=krzysztofprogramming&label=Profile%20views&color=0e75b6&style=flat" alt="krzysztofprogramming" /> </p>
+ -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krzysztofprogramming" alt="krzysztofprogramming" /></a> </p>
 
 - 🔭 I’m currently working on [ShopProjectSpring](https://github.com/KrzysztofProgramming/ShopProjectSpring)
