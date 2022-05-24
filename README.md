@@ -6,10 +6,6 @@
  -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krzysztofprogramming" alt="krzysztofprogramming" /></a> </p>
 
-- 🔭 I’m currently working on [ShopProjectSpring](https://github.com/KrzysztofProgramming/ShopProjectSpring)
-
-- 🌱 I keep learning: **PostgreSQL, Spring JPA, Angular**
-
 - 📫 How to reach me **kkonieczny.programming@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
