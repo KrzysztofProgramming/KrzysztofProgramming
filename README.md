@@ -5,7 +5,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=krzysztofprogramming&label=Profile%20views&color=0e75b6&style=flat" alt="krzysztofprogramming" /> </p>
  -->
 
-- 🌱 I’m currently learning **Angular testing**
+- 🌱 I’m currently learning **Angular testing, JUnit**
 - 📫 How to reach me **kkonieczny.programming@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
